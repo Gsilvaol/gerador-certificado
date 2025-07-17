@@ -96,6 +96,6 @@ label {
   color: #D71D1D;
 }
 
-.custom-input-group:has(.error-message)>label {
+.text-danger-label {
   color: #D71D1D;
 }
